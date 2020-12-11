@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![HitCount](http://hits.dwyl.com/Anirudh-Chauhan/Anirudh-Chauhan.svg)](http://hits.dwyl.com/Anirudh-Chauhan/Anirudh-Chauhan)
 
 **Anirudh-Chauhan/Anirudh-Chauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
