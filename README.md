@@ -11,29 +11,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: anirudhchauhan00@gmail.com
 - ⚡ Fun fact: I am a wildlife photographer ;D
 
-<!--
-### Spotify Playing 🎧
-
-
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />]
-(https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
--->
-
-
 
 ### Connect with me:
 
 
-[<img align="left" alt="Anirudh | Kaggle" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/kaggle.svg" />](Kaggle)[https://www.kaggle.com/anirudhchauhan]
+<img align="left" alt="Anirudh | Kaggle" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/kaggle.svg" />[Kaggle](https://www.kaggle.com/anirudhchauhan)
 
-[<img align="left" alt="Anirudh | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](YouTube)[https://www.youtube.com/channel/UCWPlGsv4UHVdEJgKfsNGTMQ?view_as=subscriber]
+<img align="left" alt="Anirudh | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />[YouTube](https://www.youtube.com/channel/UCWPlGsv4UHVdEJgKfsNGTMQ?view_as=subscriber)
 
-[<img align="left" alt="Anirudh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](Twitter)[https://twitter.com/home]
+<img align="left" alt="Anirudh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />[Twitter](https://twitter.com/home)
 
-[<img align="left" alt="Anirudh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](LinkedIn)[https://www.linkedin.com/in/anirudh-singh-chauhan/]
+<img align="left" alt="Anirudh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[LinkedIn](https://www.linkedin.com/in/anirudh-singh-chauhan/)
 
-[<img align="left" alt="Anirudh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](Instagram)[https://www.instagram.com/_mu.sa.fir_]
+<img align="left" alt="Anirudh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />[Instagram](https://www.instagram.com/_mu.sa.fir_)
 
 
 
