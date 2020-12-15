@@ -2,11 +2,14 @@
 
 [![HitCount](http://hits.dwyl.com/Anirudh-Chauhan/Anirudh-Chauhan.svg)](http://hits.dwyl.com/Anirudh-Chauhan/Anirudh-Chauhan)
 
-**Anirudh-Chauhan/Anirudh-Chauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am from 18-22 batch of the Jaypee University Of Engineering and Technology(JUET, Guna), a Data Science enthusiast having a practicing background with c++ & python programming and problem-solving. 
+After been part of various team projects and competitions, I can claim to have excellent organizational skills and team ethics.
 
-Here are some ideas to get you started:
+I am very curious fellow when it comes to career opportunities and new skills. 
+Developing new things everytime is fun so i try to learn something new every day. Looking forward for more opportunities in these fields.
 
-- 🔭 I’m currently working on numerous types of data.
+
+- 🔭 I’m currently working on various types of data based techniques and libraries.
 - 🌱 I’m currently learning new techniques to develop and intract with data
 - 📫 How to reach me: anirudhchauhan00@gmail.com
 - ⚡ Fun fact: I am a wildlife photographer ;D
