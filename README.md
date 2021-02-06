@@ -10,7 +10,7 @@ I am a very curious fellow when it comes to explore and try out new skills. Deve
 
 - 🔭 I’m currently working on various types of data based techniques and libraries.
 - 🌱 I’m currently learning new techniques to develop some intresting interfaces to intract with data.
-<img align="right" width="500px" src="image.png"/>[]()
+<img align="right" width="500px" src="image1.png"/>[]()
 - 📫 How to reach me: anirudhchauhan00@gmail.com
 - ⚡ Fun fact: I am a wildlife photographer ;D 
 
