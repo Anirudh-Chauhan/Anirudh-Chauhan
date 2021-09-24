@@ -18,8 +18,8 @@ I am a very curious fellow when it comes to explore and try out new skills. Deve
 
 
 <img align="left" alt="Anirudh | Kaggle" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/kaggle.svg" />[Kaggle](https://www.kaggle.com/anirudhchauhan)
-
-<img align="left" alt="Anirudh | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />[YouTube](https://www.youtube.com/channel/UCWPlGsv4UHVdEJgKfsNGTMQ?view_as=subscriber)
+<!--
+<img align="left" alt="Anirudh | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />[YouTube]-->
 
 <img align="left" alt="Anirudh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />[Twitter](https://twitter.com/home)
 
